@@ -1,2 +1,2 @@
 # Jumper-game
-Game arcade educativ
+Game arcade educatif
