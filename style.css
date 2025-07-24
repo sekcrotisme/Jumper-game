@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right, #0f0f0f, #1a1a1a);
+  color: #00ffcc;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+canvas {
+  background: #222;
+  border: 2px solid #00ffcc;
+  margin-top: 20px;
+}
+
+h1 {
+  margin-top: 30px;
+  color: #ff4444;
+}
+
+#score {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
